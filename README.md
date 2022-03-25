@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js && Angular
 - 💬 Ask me about Javascript and node
 - 📫 How to reach me: eahmad96@icloud.com
 - 🤞 I'm aiming to be a good Software Engineer. I specialize in
